@@ -16,32 +16,32 @@ I've coursed Data Processing at "Faculdade de Tecnologia de São Paulo" where le
 # Some about me: #
 Hacker from São Paulo, 44 years old, currently in love with Brasília and interested on open technologies, knowledge transmission, environment, urbanism, civil rights, networking, politics, economy, music, good movies and in producing, writting, reviewing and editting good histories for interactive media.
 
-- *Previous works*:
-  - at: *O Estado de São Paulo*
-    - as: Tech Lead on E-Investidor project
-    - from: 2020
-    - to: 2021
-    - challenges: Launch a news website in 40 days from the scratch, build solutions attending needs of readers, marketing and tech infrastructure of a big news group. And it all during a ecloding pandemy.
-    - more on: https://einvestidor.estadao.com.br
+# Previously #
+- at: *O Estado de São Paulo*
+  - as: Tech Lead on E-Investidor project
+  - from: 2020
+  - to: 2021
+  - challenges: Launch a news website in 40 days from the scratch, build solutions attending needs of readers, marketing and tech infrastructure of a big news group. And it all during a ecloding pandemy.
+  - more on: https://einvestidor.estadao.com.br
     
-  - at: *Vortex Media*
-    - as: Tech Lead
-    - from: 2019
-    - to: 2020
-    - challenges: Coordinate the creation and lauching of a brand new journalistic website planned since first toughs to be a always evolving organism. Vortex Media as newspaper fails but commitments was made to the public and the site survived for about a year needing -- a lot -- less cutting edge development and -- a lot -- more basic and resource restricting maintenance.
-    - more on: https://pt.wikipedia.org/wiki/Vortex_Media
+- at: *Vortex Media*
+  - as: Tech Lead
+  - from: 2019
+  - to: 2020
+  - challenges: Coordinate the creation and lauching of a brand new journalistic website planned since first toughs to be a always evolving organism. Vortex Media as newspaper fails but commitments was made to the public and the site survived for about a year needing -- a lot -- less cutting edge development and -- a lot -- more basic and resource restricting maintenance.
+  - more on: https://pt.wikipedia.org/wiki/Vortex_Media
 
-  - at: Poder360
-    - as: Tech Lead
-    - from: 2017
-    - to: 2019
-    - challanges: Deal with huge audience spikes while training a tem of web rookies who eventually assumed entire operation -- initially in charge of an outsourced partner.
-    - more on: https://poder360.com.br
+- at: Poder360
+  - as: Tech Lead
+  - from: 2017
+  - to: 2019
+  - challanges: Deal with huge audience spikes while training a tem of web rookies who eventually assumed entire operation -- initially in charge of an outsourced partner.
+  - more on: https://poder360.com.br
 
-  - as: Freelancer
-    - from: 2011
-    - to: today
-    - challenges: Build solutions to people in need to publish their histories at web. Fix down sites. Create web components. Optimize web applications to a better use of server and other resources. Optimize web applications to a better performance on web ecossystem as whole -- search engines, social network presence etc. Some of that people was at
-      - Carta Campinas (https://cartacampinas.com.br)
-      - Fogo Cruzado (https://fogocruzado.org.br)
-      - O Antagonista/ Crusoé (https://oantagonista.com.br)
+- as: Freelancer
+  - from: 2011
+  - to: today
+  - challenges: Build solutions to people in need to publish their histories at web. Fix down sites. Create web components. Optimize web applications to a better use of server and other resources. Optimize web applications to a better performance on web ecossystem as whole -- search engines, social network presence etc. Some of that people was at
+    - Carta Campinas (https://cartacampinas.com.br)
+    - Fogo Cruzado (https://fogocruzado.org.br)
+    - O Antagonista/ Crusoé (https://oantagonista.com.br)
