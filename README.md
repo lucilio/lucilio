@@ -1,16 +1,14 @@
 # Some about me: #
 
-*Hacker* from São Paulo - SP, 44 years old, currently in love with Brasília - DF and interested on open technologies, knowledge transmission, environment, urbanism, civil rights, networking, politics, economy, music, good movies and in producing, writing, reviewing and editing good histories for interactive media. 
+*Hacker* from São Paulo - SP, 47 years old, currently in love with Brasília - DF and interested on open technologies, knowledge transmission, environment, urbanism, civil rights, networking, politics, economy, music, good movies and in producing, writing, reviewing and editing good histories for interactive media. 
 
-## Hacker? ##
+## Hack it ##
 
-Call myself a hacker and I advocate everybody else is a hacker to -- or should be. Our existence in the world is necessarily mediated by technology and except as a hacker we are doomed to act merely as consumer of that already existent technologies.
+Everybody is a hacker -- or should be.
 
-It's terrible, don't is? Well, It's also false. You may not consider yourself a hacker today only due to a lack of vision abou what a hacker is. To make things clear, a example:
+There is no existence for human being except the mediated by technologies. We are not doomed to play a consumer role on this mediation. We can create ourselves our technologies and improve that already existing ones.
 
-Dona Izaltina, my grandmother, born in 1925 is still today building things with wool and needles using two well known technologies: knit and crochet. Now, look at a minute: this is two important technologies of the clothing industry and I am merely a consumer of clothing technologies but my grandma, she is a clothing hacker. She can not only consume but create and modify not only products but the technologies itself.
-
-I like to cook, I like to do myself repairs on my bike and I like to play guitar and I happen to like programing computers too -- and I choose to work with that last -- but I try to hack a few every technology I interact to, sometimes creating something new, sometimes teaching someone something old to me -- and see it become something new under other people's hands. To hack is to me the best way to exceed in things I love. So, pleasure, my name is Lucilio Correia. I am a computer hacker :-)
+If you think about computing technologies hacking seems to be something restricted to very few people around the world -- in comparsion to everybody else -- but when you think closes, food and faith are all technologies it's become clear that everybody is a kind of hacker in potential the same way my grandma uses needle and thread to hack her wardrobe.
 
 I've been programing sites for the last ten years, mostly dealing with problems in WordPress based sites. WordPress powers a huge amount of websites -- specially considering those which are content managing platforms -- and sometimes looks like as I choose a specialized area of web developing when the specialized choose me instead :-).
 
@@ -19,6 +17,16 @@ I've coursed Data Processing at "Faculdade de Tecnologia de São Paulo" where le
 I believe in it and it's because I'm always looking to keep up to date with good practices -- and the tools required to each of them. I also coursed Journalism at "Faculdade Casper Libero" and it's probably the reason I work to content creators or managers most of time.
 
 # Previously #
+- *Énois Laboratório de Jornalismo*
+  - *as* Technology Coordinator
+  - *from*: 2022 *to*: 2024 *more on*: https://enois.org
+  - *chalanges*: Leaded the technology efforts in a organization focused on using data to improve diversity on journalism.
+
+- *Apiki Wordpress*
+  - *as*: Tech Lead and Senior Developer
+  - *from*: 2021  *to*: 2022  *more on*: https://apiki.com
+  - *challenges*: Work to a team specialized in wordpress development as a senior developer also in pointing best practices and removing obstacles in development.
+
 - *O Estado de São Paulo*
   - *as*: Tech Lead on E-Investidor project
   - *from*: 2020	*to*: 2021	*more on*: https://einvestidor.estadao.com.br
